@@ -16,7 +16,12 @@ In this project we were tasked to analyze CitiBike bikeshare data in New York Ci
 
 <img width="1214" alt="Screen Shot 2021-09-23 at 1 14 47 PM" src="https://user-images.githubusercontent.com/86446641/134553533-59dc4bbc-bdba-49d5-8fe0-b609565a6bfe.png">
 
-<img width="548" alt="Screen Shot 2021-09-23 at 1 15 43 PM" src="https://user-images.githubusercontent.com/86446641/134553677-6fe72e58-c220-494e-ace4-924d5128f73a.png"> The above image shows Male specific usage on certain times and days of the wk. Darker shades indicate more use. <img width="539" alt="Screen Shot 2021-09-23 at 1 15 59 PM" src="https://user-images.githubusercontent.com/86446641/134553717-b68f2b1e-c25e-403a-b9bf-4fe7a808c1e8.png"> The above image shows Female specific usage on certain times and days of the wk. Darker shades indicate more use.  <img width="545" alt="Screen Shot 2021-09-23 at 1 16 16 PM" src="https://user-images.githubusercontent.com/86446641/134553749-c8963b9f-5e44-4b34-9ab1-b61ddde45b78.png"> The above image shows unidentified gender specific usage on certain times and days of the wk. Darker shades indicate more use. 
+<img width="548" alt="Screen Shot 2021-09-23 at 1 15 43 PM" src="https://user-images.githubusercontent.com/86446641/134553677-6fe72e58-c220-494e-ace4-924d5128f73a.png"> 
+The above image shows Male specific usage on certain times and days of the wk. Darker shades indicate more use. 
+<img width="539" alt="Screen Shot 2021-09-23 at 1 15 59 PM" src="https://user-images.githubusercontent.com/86446641/134553717-b68f2b1e-c25e-403a-b9bf-4fe7a808c1e8.png"> 
+The above image shows Female specific usage on certain times and days of the wk. Darker shades indicate more use.  
+<img width="545" alt="Screen Shot 2021-09-23 at 1 16 16 PM" src="https://user-images.githubusercontent.com/86446641/134553749-c8963b9f-5e44-4b34-9ab1-b61ddde45b78.png"> 
+The above image shows unidentified gender specific usage on certain times and days of the wk. Darker shades indicate more use. 
 
 <img width="1215" alt="Screen Shot 2021-09-23 at 1 16 47 PM" src="https://user-images.githubusercontent.com/86446641/134553811-f3908809-fa95-44e1-b8b9-86d8accff98f.png">
 
